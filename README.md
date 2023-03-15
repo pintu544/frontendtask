@@ -1,3 +1,15 @@
+How to start the project :
+cd frontendtask
+npm install
+npm start
+
+[]: # Path: frontendtask/README.md
+# Frontend Task
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
